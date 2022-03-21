@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class Tugas2java_Kel35 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.println("Update percobaan lewat git");
+
         String[][] outfit = {{"Crewneck","Hoodie","Kemeja"},{"Chino","Jeans","Cargo"}};
         System.out.println("PROGRAM PILIH OUTFIT");
         System.out.println("=====Pilih Bajumu=====");
